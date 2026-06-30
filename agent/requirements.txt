@@ -1,0 +1,6 @@
+livekit-agents[groq,cartesia,silero]==1.6.4
+livekit==1.1.12
+fastapi>=0.115
+uvicorn>=0.34
+python-dotenv>=1.1
+guardrails-ai==0.10.2
