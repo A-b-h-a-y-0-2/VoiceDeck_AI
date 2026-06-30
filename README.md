@@ -13,8 +13,8 @@
 **What the demo shows:**
 
 - User interrupts the AI mid-intro — Cartesia TTS stops immediately (barge-in)
-- "Tell me about the tool use revolution" → agent navigates to slide 2 and answers from it
-- Follow-up question stays on slide 2 — no unnecessary re-navigation
+- "Tell me about the tool use revolution" → agent navigates to slide 3 and answers from it
+- Follow-up question WITH CONTENT in slide 2 —  navigation to slide 2
 - Off-topic question about data retention → agent pivots to the Safety slide (slide 4) and answers from a relevant angle, rather than refusing
 - "You can continue" → agent advances to What's Next and wraps the arc
 
