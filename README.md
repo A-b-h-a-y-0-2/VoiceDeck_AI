@@ -106,8 +106,8 @@ pyenv local 3.11.9
 ### Clone and configure
 
 ```bash
-git clone https://github.com/A-b-h-a-y-0-2/VoiceSlider-AI
-cd VoiceSlider-AI
+git clone https://github.com/A-b-h-a-y-0-2/VoiceDeck_AI
+cd VoiceDeck_AI
 
 cp agent/.env.example agent/.env
 cp frontend/.env.example frontend/.env
